@@ -14,6 +14,8 @@ eclipse for this proto type project.
 in Eclipse right click this proto type project and select build path ->
 add external archives and add the libs/ jar file.
 - Hopefully I haven't forgotten anything and it should build.
+- You might also need to update your project.properties file in this
+repository locally.
 
 See the OnCreate method in
 src/com/example/spelling/SpellingService.java it points to a specific
